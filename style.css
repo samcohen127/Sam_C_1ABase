@@ -1,0 +1,33 @@
+div.row{
+    display: flex;   
+}
+div.col{
+    flex:1;
+    background-color: #65a2ac;
+    color: #fff;
+    margin: 5px;
+    height: 40px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+}
+div.col-2{
+    flex:2;
+    background-color: #65a2ac;
+    color: #fff;
+    margin: 5px;
+    height: 40px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+}
+div.col-3{
+    flex: 3;
+    background-color: #65a2ac;
+    color: #fff;
+    margin: 5px;
+    height: 40px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+}
